@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusMap</string>
+    <string-array name="weekDays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="settings_not_available">Sorry, there\'s no settings yet</string>
+    <string name="schedule_not_available">schedule does not exist yet</string>
+    <string name="settings">Settings</string>
+</resources>

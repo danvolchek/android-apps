@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVN Explorer</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_choose">Choose Repository</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <array name="repositories">
+        <item>sp16-cs225/</item>
+        <item>sp16-cs233/</item>
+        <item>fa15-cs125/</item>
+    </array>
+    <array name="names">
+        <item>CS225 - Spring 2016</item>
+        <item>CS233 - Spring 2016</item>
+        <item>CS125 - Fall 2015</item>
+    </array>
+    <string name="error">There was an error fetching the repository\nTap to retry</string>
+    <string name="wifierr">No Internet Connection\nTap to retry</string>
+    <string name="accerr">You don\&apos;t have access to this repository\nTap &quot;&lt;&quot; to go back</string>
+</resources>

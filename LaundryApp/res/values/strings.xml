@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaundryApp</string>
+    <string-array name="buildings">
+        <item>Allen</item>
+        <item>Barton-Lundgren</item>
+        <item>Bousfield Rm 103</item>
+        <item>Busey-Evans</item>
+        <item>Daniels North</item>
+        <item>Daniels South</item>
+        <item>FAR: Oglesby</item>
+        <item>FAR: Trelease</item>
+        <item>300 South Goodwin</item>
+        <item>1107 West Green</item>
+        <item>Hopkins</item>
+        <item>ISR: Townsend</item>
+        <item>ISR: Wardall</item>
+        <item>LAR: Leonard</item>
+        <item>LAR: Shelden</item>
+        <item>Nugent</item>
+        <item>Nugent Rm 126</item>
+        <item>Orchard Downs North</item>
+        <item>Orchard Downs South</item>
+        <item>PAR: Babcock</item>
+        <item>PAR: Blaisdell</item>
+        <item>PAR: Carr</item>
+        <item>PAR: Saunders</item>
+        <item>Scott</item>
+        <item>Sherman Short</item>
+        <item>Sherman Tall</item>
+        <item>Snyder</item>
+        <item>TVD: Taft</item>
+        <item>TVD: Van Doren</item>
+        <item>Weston</item>
+    </string-array>
+</resources>

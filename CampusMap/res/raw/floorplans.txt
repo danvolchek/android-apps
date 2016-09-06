@@ -1,0 +1,205 @@
+111 E. Green Street;u0559
+505 E. Green Street;u0353
+1001 W. Nevada;u0199
+1011 W. University Avenue;u1091
+1205 W. Oregon;u0224
+Abbott Power Plant;u0120
+Activities & Recreation Center;u0118
+Advanced Computation Building;u0017
+Aeronautical Laboratory A;u0028
+Agricultural Bioprocessing Laboratory;u0073
+Agricultural Engineering Sciences Building;u0008
+Agriculture Services Building;u0326
+AITS Building;u0281
+Alice Campbell Alumni Center;u0094
+Allen Residence Hall;h0142
+Altgeld Hall;u0026
+Animal Sciences Laboratory;u0165
+Animal Sciences Shop & Storage Horse Farm;u0828
+Architecture Building;u0050
+Armory;u0006
+Ashton Woods Apartments Office;h1217
+Ashton Woods Apartments;h1218
+Astronomy Building;u0300
+Atkins Tennis Center;u0360
+Atmospheric Sciences Building;u0208
+Babcock Hall;h0103
+Barton Hall;h0088
+Beckman Institute;u0228
+Beef Cattle Sheep Field Laboratory;u1146
+Bevier Hall;u0158
+Bielfeldt Athletic Administration Building;u0379
+Blaisdell Hall;h0101
+Bousfield Hall;h1252
+Building Research Council Building;u0306
+Burrill Hall;u0138
+Busey Hall;h0111
+Business Instructional Facility;u1206
+Campbell Hall;u0376
+Campus Recreation Center; East-u0364
+Carr Hall;h0104
+Central Stores & Receiving Building;u0170
+Ceramics Building;u0055
+Ceramics Kiln House;u0011
+Chemistry Annex;u0010
+Child Development Laboratory;u0062
+Children's Research Center;u0075
+Christopher Hall;u1133
+Clark Hall;u0087
+Coble Hall;u0130
+Dance Administration Building;u0365
+Dance Studio Building;u0268
+Daniels Hall;h0181
+Davenport Hall;u0001
+David Kinley Hall;u0054
+Demirjian Golf Practice Facility;u1187
+Digital Computer Laboratory;u0210
+Early Child Development Laboratory;u1071
+Education Building;u0160
+Edward R. Madigan Laboratory;u0336
+Electrical and Computer Engineering Building;u0999
+Engineering Hall;u0015
+Engineering Sciences Building;u0174
+English Building;u0044
+Environmental Health & Safety Building;u0213
+Evans Hall;h0115
+Everitt Laboratory;u0037
+Fire Sub Station;u0556
+Flightstar Administration Building;u0674
+Foellinger Auditorium;u0007
+Foreign Languages Building;u0172
+Freer Hall;u0064
+FSI Classrom & Office;u0294
+FSI Fire Station;u0290
+FSI Learning Resource & Research Center;u1261
+Funk;ACES Library;u0377
+Garage & Car Pool;u0201
+Gender & Women's Studies;u0146
+Grainger Engineering Library;u0324
+Gregory Hall;u0043
+Harding Band Building;u0004
+Harker Hall;u0025
+Henry Administration Building;u0046
+Hopkins Residence Hall;h0084
+Housing Division Warehouse;u0252
+Housing Food Stores;u0217
+Housing Maintenance Shop;u0233
+Huff Hall;u0058
+Hydrosystems Laboratory;u0152
+I Hotel & Conference Center;u1214
+Ice Arena;u0014
+Illini Hall;u0065
+Illini Union Bookstore;u0106
+Illinois Sustainability Technology Center;u0206
+Imported Swine Research;u0912
+Institute for Genomic Biology;u1080
+International Studies Building;u0369
+Krannert Art Museum;u0220
+La Casa Cultural Latina;u0195
+Law Building;u0156
+Library Information Sciences Building;u0331
+Lincoln Avenue Residence Hall;h0141
+Lincoln Hall;u0027
+Loomis Laboratory of Physics;u0067
+Lundgren Hall;h0086
+Mailing Center;u0178
+Materials Science & Engineering Building;u0034
+Meat Science Laboratory;u0171
+Mechanical Engineering Building;u0112
+Mechanical Engineering Laboratory;u0029
+Medical Sciences Building;u0192
+Micro and Nanotechnology Laboratory;u0237
+Milking Parlor;Lincoln Avenue Dairy;u0934
+Mumford Hall;u0069
+Music Building;u0039
+National Soybean Research Center;u0124
+Native American House;u0568
+Natural History Building;u0032
+Natural Resources Building;u0109
+NCSA Building;u0564
+Nesbitt African American Cultural Center;u0173
+Newmark Civil Engineering Building;u0024
+Noyes Laboratory of Chemistry;u0012
+NPCF Building;u1244
+Nuclear Engineering Laboratory;u0117
+Nuclear Physics Laboratory;u0110
+Nuclear Radiation Laboratory;u0048
+Nugent Hall;h1248
+Oak Street Library Facility;u1096
+Oglesby Hall;h0296
+Orchard Downs Apartments;h0240
+Orchard Downs Community Building;u0249
+Orchard Downs Laundry Building North;u0230
+Orchard Downs Laundry Building South;u0236
+Pennsylvania Lounge Building;h0105
+Police Training Institute; Tactical Training Center-u0277
+Police Training Institute;u0358
+Poultry Rooster;u1238
+President's House;u0100
+Printing Building;u0222
+Psychology Building;u0076
+Public Safety Annex;u1114
+Public Safety Building;u0323
+Richmond Studio;u0551
+Roger Adams Laboratory;u0116
+Saunders Hall;h0102
+School of Labor & Industrial Relations;u0218
+School of Social Work;u1241
+Scott Residence Hall;h0079
+Seitz Materials Research Laboratory;u0066
+Sherman Hall; Single Graduate Housing-h0291
+111 E. Green Street;u0559
+Thomas M. Siebel Center for Computer Science;u0563
+Smith Memorial Hall;u0060
+Snyder Residence Hall;h0078
+Special Materials Storage Facility;u0372
+Speech and Hearing Clinic;u0209
+Speech Language Pathology Clinic & Chesterbrook Academy;u1213
+Spurlock Museum;u0373
+Student Dining and Residential Programs Building;h1247
+Student Services Arcade Building;u0071
+Student-Staff Apartments;Goodwin & Green #1-h0136
+Student-Staff Apartments;Goodwin & Green #2-h0137
+Superconductivity Center;u0095
+Surveying Building;u0059
+Swanlund Administration Building;u0193
+Swine Research Headquarters;u1030
+Taft Hall;h0092
+Talbot Laboratory;u0013
+Technology Plaza;u1083
+Temple Hoyne Buell Hall;u0339
+Townsend Hall;h0273
+Transportation Building;u0042
+Trelease Hall;h0295
+Turner Hall;u0197
+Turner Student Services Building;u0188
+Ubben Basketball Practice Facility;u0257
+Undergraduate Library;u0099
+University Archives Research Center;u0068
+University High School;u0061
+University Library;u0041
+Main Library;u0041
+Urban Outfitters Building;u1262
+Van Doren Hall;h0091
+Veterinary Medicine Basic Sciences Building;u0350
+Veterinary Teaching Hospital;u0292
+Wardall Hall;h0272
+Waste Transfer & Material Recovery Facility;u0270
+Water Survey Research Center Building #1;u1104
+Water Survey Research Center Building #2;u0289
+Water Survey Research Center Building #3;u1106
+Water Survey Research Center Building #4;u1107
+Water Survey Research Center Building #5;u1108
+Water Survey Research Center Building #6;u1109
+Water Survey Research Center Building #7;u1110
+Water Survey Research Center Building #8;u1111
+Water Survey Research Center Building #9;u1112
+Water Survey Shop & Equipment Building #11;u1139
+Water Survey Warehouse Building #10;u1026
+Weston Residence Hall;h0080
+Willard Airport - Airport Rescue and Firefighting;u0677
+Willard Airport - Commercial Airport Terminal Building;u0675
+Willard Airport - Control Tower;u0652
+Willard Airport - Institute of Aviation Administration Building;u0676
+Wohlers Hall;u0159
+Wood Engineering Laboratory;u0183

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#ff8be0ff">
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:baselineAligned="false"
+            android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Location"
+                    android:clickable="true"
+                    android:id="@+id/loc" android:layout_gravity="center"/>
+        </FrameLayout>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <Spinner
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/building" android:layout_gravity="end"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" android:layout_marginBottom="14dp"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:baselineAligned="false"
+            android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp">
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Washers Available"
+                    android:id="@+id/washersText"
+                    />
+        </FrameLayout>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="0/0"
+                    android:id="@+id/washersNum"
+                    android:layout_gravity="end"/>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Dryers Available"
+                    android:id="@+id/dryersText"
+                />
+        </FrameLayout>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="0/0"
+                    android:id="@+id/dryersNum"
+                    android:layout_gravity="end"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" android:layout_marginBottom="14dp"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp">
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Washer #"
+                    android:id="@+id/textView3" android:layout_gravity="center_vertical"/>
+            <Spinner
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/washer" />
+        </LinearLayout>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="0/0"
+                    android:id="@+id/wStatusV" android:layout_gravity="right"/>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Dryer     #"
+                    android:id="@+id/textView4" android:layout_gravity="center_vertical"/>
+            <Spinner
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/dryer"/>
+        </LinearLayout>
+        <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="0/0"
+                    android:id="@+id/dStatusV" android:layout_gravity="end"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:baselineAligned="false"
+            android:layout_height="wrap_content" android:layout_marginLeft="5dp">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Washers"
+                    android:id="@+id/textView" android:layout_gravity="center_horizontal"/>
+            <com.volchekD.LaundryApp.MaxScroll
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/washers"/>
+        </LinearLayout>
+        <View
+                android:layout_height="fill_parent"
+                android:layout_width="1dp"
+                android:background="@android:color/darker_gray"/>
+
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Dryers"
+                    android:id="@+id/textView2" android:layout_gravity="center_horizontal"/>
+            <com.volchekD.LaundryApp.MaxScroll
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/dryers"/>
+        </LinearLayout>
+    </LinearLayout>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+    <Space
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alert 5 Minutes Before Washer/Dryer Finishes"
+            android:id="@+id/wdCheck" android:checked="false"/>
+</LinearLayout>
+

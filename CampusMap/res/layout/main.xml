@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- The main content view -->
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/map"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  class="com.google.android.gms.maps.MapFragment" android:layout_alignParentTop="true"
+                  android:layout_alignParentStart="true"/>
+
+        <com.volchekDan.CampusMap.SlidingLayer
+                xmlns:slidingLayer="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/scheduleContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                slidingLayer:stickTo="bottom"
+                slidingLayer:offsetDistance="20dp"
+                slidingLayer:changeStateOnTap="false"
+
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+
+                >
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_height="150dp"
+                android:background="@android:color/darker_gray"
+                android:layout_gravity="center"
+                >
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Schedule"
+                    android:id="@+id/header"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@android:color/black" android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"/>
+            <ListView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/scheduleItems"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1"/>
+            <TextClock
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:format12Hour="hh:mm:ss aa"
+                    android:id="@+id/footer"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@android:color/black" android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"/>
+
+        </LinearLayout>
+    </com.volchekDan.CampusMap.SlidingLayer>
+
+    </RelativeLayout>
+
+    <!-- The navigation drawer -->
+    <ListView android:id="@+id/left_drawer"
+              android:layout_width="240dp"
+              android:layout_height="match_parent"
+              android:layout_gravity="start"
+              android:choiceMode="singleChoice"
+              android:divider="@android:color/transparent"
+              android:dividerHeight="0dp"
+              android:background="#111"/>
+</android.support.v4.widget.DrawerLayout>
+
