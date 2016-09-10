@@ -1,2 +1,4 @@
 # android-apps
-Note that these apps were never released on the Google Play store, and are only used for personal use. Thus, they may be a bit hard to figure out how to use.
+A repository of the various Android applications I've created.
+
+More info about each one can be found in the README.md in each folder.
